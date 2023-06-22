@@ -1,5 +1,7 @@
 package com.example.tugas_sensorgps_10120136;
-
+//Nama  : Alif Aziz Alviansyah
+//NIM   : 10120136
+//Kelas : IF 4
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
 
