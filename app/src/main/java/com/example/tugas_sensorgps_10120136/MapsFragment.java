@@ -1,7 +1,7 @@
 package com.example.tugas_sensorgps_10120136;
 //Nama  : Alif Aziz Alviansyah
 //NIM   : 10120136
-//Kelas : IF 4
+//Kelas : IF 4 
 import android.Manifest;
 import android.annotation.SuppressLint;
 import android.content.Context;
